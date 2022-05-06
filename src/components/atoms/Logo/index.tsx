@@ -24,7 +24,7 @@ const Wrapper = styled.div`
 
 const Logo = (): JSX.Element => {
   return (
-    <StyledLink to="/">
+    <StyledLink to="/adoptME">
       <Wrapper>
         <img src={LogoIcon} alt="AdoptME Logo - home" />
       </Wrapper>

@@ -15,7 +15,7 @@ function App(): JSX.Element {
       <LightBox />
       <AnimatePresence exitBeforeEnter>
         <Switch>
-          <Route path="/" exact>
+          <Route path="/adoptME" exact>
             <Gallery />
           </Route>
           <Route path="/slideshow">
