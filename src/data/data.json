@@ -5,16 +5,16 @@
   "description": "A Akira é uma cadela extremamente sociável e está habituada a conviver com gatos.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterLisboa.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterLisboa.jpg",
     "name": "Associação Lisboa"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Akira.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Akira.jpg",
     "hero": {
-      "small": "./assets/dogs/Akira.jpg",
-      "large": "./assets/dogs/Akira.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Akira.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Akira.jpg"
     },
-    "gallery": "./assets/dogs/Akira.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Akira.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef69",
@@ -23,16 +23,16 @@
   "description": "O Amendoim é um cão muito amigável e gosta de passear.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterPorto.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterPorto.jpg",
     "name": "Associação Porto"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Amendoim.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Amendoim.jpg",
     "hero": {
-      "small": "./assets/dogs/Amendoim.jpg",
-      "large": "./assets/dogs/Amendoim.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Amendoim.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Amendoim.jpg"
     },
-    "gallery": "./assets/dogs/Amendoim.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Amendoim.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef6a",
@@ -41,16 +41,16 @@
   "description": "O Benji é um gato descontraído que gosta de explorar.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterPorto.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterPorto.jpg",
     "name": "Associação Porto"
   },
   "images": {
-    "thumbnail": "./assets/cats/Benji.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/cats/Benji.jpg",
     "hero": {
-      "small": "./assets/cats/Benji.jpg",
-      "large": "./assets/cats/Benji.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/cats/Benji.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/cats/Benji.jpg"
     },
-    "gallery": "./assets/cats/Benji.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/cats/Benji.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef6b",
@@ -59,16 +59,16 @@
   "description": "A Estrela é a cadela sensação da rua! É muito meiga e amorosa.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterCoimbra.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterCoimbra.jpg",
     "name": "Associação Coimbra"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Estrela.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Estrela.jpg",
     "hero": {
-      "small": "./assets/dogs/Estrela.jpg",
-      "large": "./assets/dogs/Estrela.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Estrela.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Estrela.jpg"
     },
-    "gallery": "./assets/dogs/Estrela.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Estrela.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef6c",
@@ -77,16 +77,16 @@
   "description": "O Dado é um gatinho meigo e brincalhão.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterCoimbra.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterCoimbra.jpg",
     "name": "Associação Coimbra"
   },
   "images": {
-    "thumbnail": "./assets/cats/Dado.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/cats/Dado.jpg",
     "hero": {
-      "small": "./assets/cats/Dado.jpg",
-      "large": "./assets/cats/Dado.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/cats/Dado.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/cats/Dado.jpg"
     },
-    "gallery": "./assets/cats/Dado.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/cats/Dado.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef6d",
@@ -95,16 +95,16 @@
   "description": "O Caju é um cão meigo que gosta de passear à beira mar.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterBeja.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterBeja.jpg",
     "name": "Associação Beja"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Caju.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Caju.jpg",
     "hero": {
-      "small": "./assets/dogs/Caju.jpg",
-      "large": "./assets/dogs/Caju.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Caju.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Caju.jpg"
     },
-    "gallery": "./assets/dogs/Caju.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Caju.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef6e",
@@ -113,16 +113,16 @@
   "description": "O Galã é um gato irresistível. Meigo e habituado a cães.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterLisboa.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterLisboa.jpg",
     "name": "Associação Lisboa"
   },
   "images": {
-    "thumbnail": "./assets/cats/Gala.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/cats/Gala.jpg",
     "hero": {
-      "small": "./assets/cats/Gala.jpg",
-      "large": "./assets/cats/Gala.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/cats/Gala.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/cats/Gala.jpg"
     },
-    "gallery": "./assets/cats/Gala.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/cats/Gala.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef6f",
@@ -131,16 +131,16 @@
   "description": "A Havana é uma gata que passa metade do tempo a explorar e o resto a dormir.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterLisboa.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterLisboa.jpg",
     "name": "Associação Lisboa"
   },
   "images": {
-    "thumbnail": "./assets/cats/Havana.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/cats/Havana.jpg",
     "hero": {
-      "small": "./assets/cats/Havana.jpg",
-      "large": "./assets/cats/Havana.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/cats/Havana.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/cats/Havana.jpg"
     },
-    "gallery": "./assets/cats/Havana.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/cats/Havana.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef70",
@@ -149,16 +149,16 @@
   "description": "O Hobbit é um cão brincalhão e carente de atenção.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterSetubal.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterSetubal.jpg",
     "name": "Associação Setubal"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Hobbit.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Hobbit.jpg",
     "hero": {
-      "small": "./assets/dogs/Hobbit.jpg",
-      "large": "./assets/dogs/Hobbit.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Hobbit.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Hobbit.jpg"
     },
-    "gallery": "./assets/dogs/Hobbit.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Hobbit.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef71",
@@ -167,16 +167,16 @@
   "description": "A Lisa é uma cadela muito calma e amorosa.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterFaro.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterFaro.jpg",
     "name": "Associação Faro"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Lisa.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Lisa.jpg",
     "hero": {
-      "small": "./assets/dogs/Lisa.jpg",
-      "large": "./assets/dogs/Lisa.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Lisa.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Lisa.jpg"
     },
-    "gallery": "./assets/dogs/Lisa.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Lisa.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef72",
@@ -185,16 +185,16 @@
   "description": "O Rico é um cão, mas podia ser um lord!",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterLeiria.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterLeiria.jpg",
     "name": "Associação Leiria"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Rico.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Rico.jpg",
     "hero": {
-      "small": "./assets/dogs/Rico.jpg",
-      "large": "./assets/dogs/Rico.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Rico.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Rico.jpg"
     },
-    "gallery": "./assets/dogs/Rico.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Rico.jpg"
   }
 },{
   "_id": "6272c070997301424ebbef73",
@@ -203,16 +203,16 @@
   "description": "O Pepe é um cãozinho muito energético e carente de atenção.",
   "source": "https://bemyfriend.pt/",
   "shelter": {
-    "image": "./assets/shelter/shelterLisboa.jpg",
+    "image": "https://dariamanskaia.github.io/adoptME/assets/shelter/shelterLisboa.jpg",
     "name": "Associação Lisboa"
   },
   "images": {
-    "thumbnail": "./assets/dogs/Pepe.jpg",
+    "thumbnail": "https://dariamanskaia.github.io/adoptME/assets/dogs/Pepe.jpg",
     "hero": {
-      "small": "./assets/dogs/Pepe.jpg",
-      "large": "./assets/dogs/Pepe.jpg"
+      "small": "https://dariamanskaia.github.io/adoptME/assets/dogs/Pepe.jpg",
+      "large": "https://dariamanskaia.github.io/adoptME/assets/dogs/Pepe.jpg"
     },
-    "gallery": "./assets/dogs/Pepe.jpg"
+    "gallery": "https://dariamanskaia.github.io/adoptME/assets/dogs/Pepe.jpg"
   }
 }
 ]
