@@ -1,5 +1,5 @@
 # AdoptME! Study Project
-This project was created as a final work from a web development course.
+This project was created as a final work for a web development course.
 The base of this page is "Galleria-main" boilerplate available on git.
 
 The idea is to display abandonned pets to find them a new family.  
