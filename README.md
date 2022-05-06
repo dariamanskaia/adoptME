@@ -2,7 +2,7 @@
 This project was created as a final work from a web development course.
 The base of this page is "Galleria-main" boilerplate available on git.
 
-The idea is to display abandonned pets to find them a new family.
+The idea is to display abandonned pets to find them a new family.  
 
 ####
 / "Galleria-main" README page below \ 
